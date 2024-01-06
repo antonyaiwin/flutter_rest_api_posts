@@ -5,6 +5,7 @@ A Flutter project that utilizes a REST API to fetch posts from the web and displ
 ## Project Description
 
 The project fetches posts from a web service using a REST API, converts the received JSON data into corresponding class objects, and then displays the data in the UI. Additionally, the project fetches related data from another API call.
+This app uses the free api provided by https://jsonplaceholder.typicode.com/
 
 ## Getting Started
 
