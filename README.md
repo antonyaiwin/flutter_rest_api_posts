@@ -39,7 +39,6 @@ https://www.youtube.com/watch?v=ro6mC65dHCg
 
 ## Screenshots
 
-![App Screenshot_1](screenshots/Screenshot_1.jpg)
-![App Screenshot_2](screenshots/Screenshot_2.jpg)
-![App Screenshot_3](screenshots/Screenshot_3.jpg)
+<img src="screenshots/Screenshot_1.jpg" height="500em"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/Screenshot_2.jpg" height="500em"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/Screenshot_3.jpg" height="500em"/>
+
 
