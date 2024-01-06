@@ -31,8 +31,15 @@ Before running the project, make sure you have the following installed:
 
 6. To read a post in full and view comments, click on the 'Read More...' button associated with each post.
 
-## YouTube Demo
+## YouTube Video Demo
 
 [![Project Demo](https://img.youtube.com/vi/ro6mC65dHCg/0.jpg)](https://www.youtube.com/watch?v=ro6mC65dHCg)
 
+https://www.youtube.com/watch?v=ro6mC65dHCg
+
+## Screenshots
+
+![App Screenshot_1](screenshots/Screenshot_1.jpg)
+![App Screenshot_2](screenshots/Screenshot_2.jpg)
+![App Screenshot_3](screenshots/Screenshot_3.jpg)
 
